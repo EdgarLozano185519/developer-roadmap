@@ -1,0 +1,197 @@
+Front-end
+Learn the basics
+Writing Semantic HTML
+Conventions and Best Practices
+Learn the basics
+Making Layouts
+Floats
+Responsive design and Media Queries
+Positioning
+Display
+Box Model
+CSS Grid
+Flex Box
+Syntax and Basic Constructs
+Learn DOM Manipulation
+Hoisting, Event Bubbling, Scope,
+Prototype, Shadow DOM, strict,
+Understand the concepts
+Learn Fetch API / Ajax (XHR)
+ES6+ and modular JavaScript
+Find the detailed version of this roadmap
+along with resources and other roadmaps
+roadmap.sh
+http
+:
+/
+/
+Forms and Validations
+Internet
+How does the internet work?
+What is HTTP?
+Browsers and how they work?
+DNS and how it works?
+What is Domain Name?
+What is hosting?
+Accessibility
+SEO Basics
+Basic Usage of Git
+GitHub
+Repo hosting services
+Create account and Learn to use GitHub
+Version Control Systems
+What are they and why you should use one
+Package Managers
+HTML
+CSS
+JavaScript
+npm
+yarn
+npm and yarn both are fine, pick
+much difference.
+one or learn both, there is not
+Bitbucket
+GitLab
+Web Security Knowledge
+Personal Recommendation / Opinion
+CORS
+HTTPS
+Content Security Policy
+OWASP Security Risks
+Get at least a basic knowledge of all of these
+CSS Preprocessors
+With how the modern frameworks there has been
+more push towards CSS-in-JS so you may not need
+these but still a good idea to familiarize yourself.
+CSS Architecture
+With modern frameworks and CSS-in-JS you don't
+have to worry about these anymore but still it would
+BEM
+SMACSS
+OOCSS
+be a good idea to get familiarized with BEM atleast.
+Build Tools
+Task Runners
+npm scripts
+Gulp
+Linters and Formatters
+Prettier
+ESLint
+StandardJS
+Webpack
+Rollup
+Parcel
+Module Bundlers
+Webpack
+Rollup
+Parcel
+Pick a Framework
+React.js
+Angular
+Vue.js
+Redux
+MobX
+Modern CSS
+Less
+VueX
+RxJS
+NgRx
+Styled Components
+CSS Modules
+Emotion
+Radium
+Glamorous
+Flow
+I wouldn't recommend
+Static Site Generators
+GatsbyJS
+Next.js
+Nuxt.js
+Vuepress
+Jekyll
+CSS Frameworks
+Bootstrap
+Materialize CSS
+Bulma
+CSS first frameworks which
+don't come with JavaScript
+components by default.
+Material UI
+Chakra UI
+Reactstrap
+Tailwind CSS
+JS based and better to use
+with your framework based
+JavaScript applications.
+react-testing-library
+Enzyme
+Jest
+Cypress
+You can fill all your testing
+needs with just these.
+Testing your Apps
+and {color:blue}Functional{color} tests and learn how to write
+them with the tools listed on the left.
+Learn the difference between {color:blue}Unit{color}, {color:blue}Integration{color}, 
+Chai
+Ava
+Jasmine
+Mocha
+Type Checkers
+TypeScript
+Progressive Web Apps
+Service Workers
+Storage
+Location
+Notifications
+Device Orientation
+Payments
+Credentials
+Web Sockets
+Learn different Web
+APIs used in PWAs
+PRPL Pattern
+RAIL Model
+Performance Metrics
+Using Lighthouse
+Using DevTools
+Calculating, Measuring
+and improving performance
+Server Side Rendering (SSR)
+React.js
+Next.js
+After.js
+Angular
+Universal
+Vue.js
+Nuxt.js
+Desktop Applications
+Electron
+Carlo
+Mobile Applications
+React Native
+NativeScript
+Flutter
+Hugo
+Ionic
+GraphQL
+Apollo
+Relay Modern
+Web Assembly
+Keep Learning
+Web Assembly or WASM is the binary instructions generated from
+higher level languages such as Go, C, C++ or Rust. It is faster than
+JavaScript and WASM 1.0 has already shipped in the major browsers.
+take quite some time to go mainstream though.
+W3C accepted it as an official standard at the end of 2019. It will still
+Web Components
+HTML Templates
+Custom Elements
+Shadow DOM
+Proton Native
+Order in roadmap not strict (Learn anytime)
+PostCSS
+Sass
+Alternative Option - Pick this or purple
+Styled JSX
+Gridsome

@@ -1,0 +1,138 @@
+Process Management
+Threads and Concurrency
+Sockets
+Networking Concepts
+POSIX Basics
+Compiling apps from source
+Learn Bash Scripting
+(gcc, make and other related stuff)
+Vim/Nano/PowerShell/Emacs
+Text Manipulation Tools
+awk, sed, grep, sort, uniq, cat, cut
+echo, fmt, tr, nl, egrep, fgrep, wc
+Process Monitoring
+ps, top, htop, atop, lsof
+System Performance
+nmon, iostat, sar, vmstat
+Network
+nmap, tcpdump, ping, mtr, traceroute, dig
+airmon, airodump, iptables, netstat
+Others
+strace, dtrace, systemtap
+uname, df, history
+Learn about Managing Servers
+Get some administration knowledge in some OS. Go
+with any Linux distro. Pick Ubuntu if you have a little to
+no experience with Linux.
+Linux
+Unix
+Windows
+Networking, Security and Protocols
+What is and how to setup a ____________
+Web Server
+Forward Proxy
+Caching Server
+Apache
+Nginx
+Tomcat
+Caddy
+IIS
+Reverse Proxy
+Load Balancer
+Firewall
+Learn Infrastructure as Code
+Operating System
+Learn to live in Terminal
+Infrastructure Provisioning
+Terraform
+CloudFormation
+Configuration Management
+Ansible
+Chef
+Puppet
+Salt
+Learn some CI/CD Tool
+Jenkins
+Travis CI
+Containers
+Docker
+LXC
+TeamCity
+Circle CI
+Learn how to monitor software and infrastructure
+Infrastructure Monitoring
+Nagios
+Grafana
+Datadog
+Zabbix
+Application Monitoring
+Monit
+Jaeger
+New Relic
+Logs Management
+Elastic Stack
+Graylog
+Splunk
+Papertrail
+Cloud Providers
+AWS
+Google Cloud
+Azure
+Digital Ocean
+Heroku
+Keep Learning
+Container Orchestration
+Kubernetes
+Mesos
+Docker Swarm
+Nomad
+DevOps
+Learn a Programming Language
+Ruby
+Python
+Node.js
+It doesn't matter which language you 
+pick, key is to get some programming
+knowledge for automation
+Find the detailed version of this roadmap
+along with resources and other roadmaps
+Personal Recommendation / Opinion
+I wouldn't recommend
+Order in roadmap not strict (Learn anytime)
+Alternative Option - Pick this or purple
+Understand different OS Concepts
+FreeBSD
+OpenBSD
+NetBSD
+tmux
+screen
+terminal multiplexers
+Alibaba Cloud
+Linode
+Vultr
+Gitlab CI
+GitHub Actions
+Bamboo
+Azure DevOps Services
+Prometheus
+AppDynamics
+Instana
+OpenTracing
+Pulumi
+Startup Management (intid)
+Service Management (systemd)
+Service Mesh
+Cloud Design Patterns
+Availability
+Data Management
+Design and Implementation
+Management and Monitoring
+http://bit.ly/cloud-arch-patterns
+Emails
+SMTP
+IMAPS
+POP3S
+DMARC
+SPF
+Domain Keys
+White/Grey Listing

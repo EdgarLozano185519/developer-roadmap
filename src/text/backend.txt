@@ -1,0 +1,172 @@
+Keep Learning
+Building with Observability in mind
+Architectural Patterns
+Monolithic Apps
+Microservices
+CQRS and Event Sourcing
+Search Engines
+Elasticsearch
+Solr
+SOA
+Neo4j
+RabbitMQ
+Kafka
+Message Brokers
+Containerization vs Virtualization
+Web Servers
+Nginx
+Apache
+Caddy
+MS IIS
+Docker
+rkt
+LXC
+GraphQL
+Apollo
+Relay Modern
+Graph Databases
+WebSockets
+OAuth
+Basic Authentication
+Token Authentication
+JWT
+OpenID
+SAML
+Caching
+Redis
+Memcached
+Server Side
+Client Side
+CDN
+Relational Databases
+PostgreSQL
+MySQL
+MariaDB
+MS SQL
+Oracle
+NoSQL Databases
+MongoDB
+RethinkDB
+CouchDB
+DynamoDB
+ACID
+More about Databases
+Transactions
+N+1 Problem
+Sharding Strategies
+Database Normalization
+Data Replication
+Indexes and how they work
+Learn about APIs
+REST
+JSON APIs
+SOAP
+Read Roy Fielding’s Paper
+HATEOAS
+Open API Spec and Swagger
+CAP Theorem
+Authentication
+Web Security Knowledge
+CORS
+HTTPS
+Content Security Policy
+OWASP Security Risks
+MD5 and why not to use it
+SHA Family
+scrypt
+bcrypt
+Hashing Algorithms
+Cookie Based
+SSL/TLS
+Testing
+Integration Testing
+Unit Testing
+Functional Testing
+Backend
+Find the detailed version of this roadmap
+along with resources and other roadmaps
+roadmap.sh
+http
+:
+/
+/
+Personal Recommendation / Opinion
+I wouldn't recommend
+Order in roadmap not strict (Learn anytime)
+Alternative Option - Pick this or purple
+Java
+Rust
+Go
+C#
+Learn a Language
+PHP
+JavaScript
+Python
+Ruby
+Internet
+How does the internet work?
+What is HTTP?
+Browsers and how they work?
+DNS and how it works?
+What is Domain Name?
+What is hosting?
+Basic Frontend Knowledge
+HTML
+CSS
+Memory Management
+Interprocess Communication
+I/O Management
+POSIX Basics
+stdin, stdout, stderr, pipes
+Basic Networking Concepts
+JavaScript
+Terminal Usage
+Basic Terminal Commands
+grep, awk, sed, lsof, curl, wget
+tail, head, less, find, ssh, kill
+OS and General Knowledge
+Process Management
+Threads and Concurrency
+How OSs work in General
+Make sure to learn its quirks. Core details about its
+runtime e.g. concurrency, memory model etc.
+Basic Usage of Git
+GitHub
+Repo hosting services
+Create account and Learn to use GitHub
+Version Control Systems
+What are they and why you should use one
+Bitbucket
+GitLab
+ORMs
+CI / CD
+Design and Development Principles
+SOLID
+KISS
+YAGNI
+DRY
+GOF Design Patterns
+Domain Driven Design
+Test Driven Development
+Serverless
+Building for Scale
+General topics that you should learn
+and care about for the sustainability
+of the product.
+Mitigation Strategies
+Metrics logging and other observable items
+that could help you in debugging and solving
+the issues when things go wrong
+Monitoring
+Throttling
+Backpressure
+Loadshifting
+Graceful
+Telemetry
+Instrumentation
+Understand the Diff.
+Circuit Breaker
+Migration Strategies
+Horizontal vs Vertical Scaling
+Degradation
+gRPC

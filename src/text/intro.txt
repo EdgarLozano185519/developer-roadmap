@@ -1,0 +1,16 @@
+Web Developer in 2020
+Front-end
+Choose your path
+Git - Version Control
+SSH
+HTTP/HTTPS and APIs
+Required for any path
+Basic Terminal Usage
+Back-end
+DevOps
+GitHub
+Data Structures & Algorithms
+Character Encodings
+Design Patterns
+Licenses
+Semantic Versioning
